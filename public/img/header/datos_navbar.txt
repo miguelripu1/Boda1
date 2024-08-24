@@ -1,0 +1,4 @@
+font Gudea
+size 14px
+bold
+#28464E
