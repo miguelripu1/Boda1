@@ -2,28 +2,24 @@
   <div class="event-details">
     <!-- Título de la sección -->
     <div class="title-container">
-      <h1 class="title">¿Cuándo y Dónde?</h1>
+      <h1 class="title">Recepción</h1>
     </div>
 
     <!-- Contenedor de detalles del evento -->
     <div class="row align-items-center contenedor">
       <!-- Columna de imagen con separación en el lado izquierdo -->
       <div class="col-lg-7 image-container">
-        <img :src="`../img/donde/capilla.png`" alt="Lugar del evento" class="img-fluid">
+        <img :src="`../img/donde/restaurante.png`" alt="Lugar del evento" class="img-fluid">
       </div>
       <!-- Columna de texto con fondo azul en el lado derecho -->
       <div class="col-lg-5 details-col py-5 px-4 d-flex justify-content-center align-items-center">
         <div class="details-text">
-          <h2 class="font-parisienne">Ceremonia y Recepción</h2>
-          <p class="date"><strong>15 Junio, 2024 - 3:00pm</strong></p>
-          <p class="location">Hacienda Casa del Lago, Sopo</p>
-          <p class="location-detail">Kilometro 13, Autopista Nte., Bogotá</p>
+          <p class="date"><strong>28 Septiembre, 2024 - 2:30pm</strong></p>
+          <p class="location">Restaurante Tymba</p>
+          <p class="location-detail">La Plazuela vía Neusa, Cogua</p>
           <div class="buttons-container">
-            <a href="https://maps.app.goo.gl/Eb7CdL2APpJRi5917" target="_blank" class="btn btn-custom como-Llegar">
+            <a href="https://maps.app.goo.gl/UGWvd5hq9qiwh6kDA" target="_blank" class="btn btn-custom como-Llegar">
               ¿Cómo llegar?
-            </a>
-            <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Matrimonio+Angelica+y+Miguel&details=Matrimonio+de+Angelica+y+Miguel&location=4.9133287,-73.9973608&dates=20230615T203000Z/20230616T060000Z" target="_blank" class="btn btn-custom calendario">
-               Añadir al calendario
             </a>
           </div>
         </div>
@@ -77,7 +73,7 @@ h1{
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  color: #222;
+  color: #593E25;
   margin-bottom:32px;
 }
 
@@ -118,12 +114,12 @@ h1{
 }
 
 .image-container {
-  padding-right: 0; 
+  padding-right: 0px; 
   padding-left: 60px; 
 }
 
 .details-col {
-  background-color: #7899AA;
+  background-color: #D7D8CA;
   color: #000000;
   padding-top: 8rem !important;
   padding-bottom: 8rem !important;
@@ -144,7 +140,7 @@ h1{
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  color:#222;
+  color:#593E25;
   margin-bottom:32px;
 }
 .location {
@@ -153,7 +149,7 @@ h1{
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  color:#222;
+  color:#593E25;
   margin-bottom: 0px;
 }
 .location-detail {
@@ -162,7 +158,7 @@ h1{
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  color:#222;
+  color:#593E25;
   margin-bottom:32px;
 }
 
@@ -171,12 +167,12 @@ h1{
 }
 
 .como-Llegar {
-  font-family: "Gudea", sans-serif;
+  font-family: "Gudea";
   font-size: 14px;
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  color: #28464E;
+  color: #347355;
   background-color: #fff;
   border: 2px solid #fff;
   margin-right: 1rem;
@@ -195,7 +191,7 @@ h1{
 .como-Llegar:hover {
   background-color: #EFF3F5;
   border-radius: 100px;
-  border: 2px solid #7899AA;
+  border: 2px solid #347355;
 }
 .contenedor{
     padding-right: 60px;

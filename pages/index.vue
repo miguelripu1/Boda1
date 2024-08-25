@@ -1,18 +1,17 @@
 <template>
-  <title>Angelica&Miguel</title>
+  <title>Iván&Leidy</title>
   <sliderPrincipal />
   <saludo />
-  <familia2 />
   <sliderCronologico />
-  <cuandoDonde />
-  <vestimenta />
+  <invitacion />
+  <ceremonia />
+  <recepcion />
   <itinerario />
-  <orar />
-  <fotitos />
+  <vestimenta />
   <mesaRegalos />
   <asistencia />
   <prefooter />
-  <Footer />
+  <Footer/>
 </template>
 
  
@@ -23,7 +22,8 @@ import sliderPrincipal from '../components/sliderPrincipal.vue';
 import saludo from '../components/saludo.vue';
 import familia2 from '../components/familia2.vue';
 import sliderCronologico from '../components/sliderCronologico.vue';
-import cuandoDonde from '../components/cuandoDonde.vue';
+import ceremonia from '../components/ceremonia.vue';
+import recepcion from '../components/recepcion.vue';
 import vestimenta from '../components/vestimenta.vue';
 import itinerario from '../components/itinerario.vue';
 import orar from '../components/orar.vue';

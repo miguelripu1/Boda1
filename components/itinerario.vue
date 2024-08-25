@@ -45,6 +45,8 @@ export default {
   font-family: 'Parisienne', cursive;
   font-size: 32px;
   margin-bottom: 2rem;
+  margin-top: 2rem;
+  color:#593E25;
   background-color: #fff;
   padding-left: 60px; 
   width: fit-content;

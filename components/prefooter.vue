@@ -3,8 +3,8 @@
     <img :src="`../img/footer/subfooter.png`"alt="Fondo" class="img-fondo">
     <div class="prefooter-content">
       <img :src="`../img/footer/anillos.png`" alt="Anillos" class="img-anillos">
-      <h2 class="names">Angelica & Miguel</h2>
-      <p class="date">15 Junio 2024</p>
+      <h2 class="names">Iván & Leidy</h2>
+      <p class="date">28 Septiembre 2024</p>
     </div>
   </div>
 </template>
@@ -38,7 +38,7 @@ export default {
 .img-anillos {
   /*max-width: 100px;*/
   max-width: 22%;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
 }
 
 .names {
