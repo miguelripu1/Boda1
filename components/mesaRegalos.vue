@@ -4,11 +4,10 @@
     <div class="row">
       <div id="textoRegalos" class="col-12 col-lg-6 ">
         <p class="description">
-          En este día tan especial, nos sentimos bendecidos por tenerlos cerca para continuar con nuestro viaje juntos. Su presencia es el mejor regalo que podríamos recibir.Si deseas contribuir de alguna manera adicional, apreciaríamos mucho tu ayuda, cada gesto representa tu amor y apoyo al inicio de este nuevo capítulo en nuestras vidas.
+          El mejor regalo que podríamos recibir es contar con tu presencia en nuestro día especial. Sin embargo, si deseas contribuir de otra manera, una lluvia de sobres será más que bienvenida.
         </p>
         <p class="description-second">
-          Agradecemos desde lo más profundo de nuestros corazones
-          su generosidad y cariño.
+         ¡Gracias por ser parte de este momento tan importante en nuestras vidas!
         </p>
       </div>
       <div class="col-12 col-lg-6 text-center">
@@ -43,7 +42,7 @@ export default {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  color:#222;
+  color:#593E25;
   padding-left: 60px;
   margin-bottom: 0px;
 }
@@ -53,7 +52,7 @@ export default {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  color:#fff;
+  color:#347355;
 }
 .text-center{
   margin-top:30px;
@@ -79,7 +78,7 @@ export default {
 }
 
 .card-body {
-  background-color: #7899AA; 
+  background-color: #EDE6DA; 
   color: #ffffff;
   justify-content: center;
   border-radius: 10px;

@@ -2,7 +2,7 @@
   <div class="container saludo-container">
     <div class="row">
       <div class="col-12 text-center">
-        <h1 style="margin-bottom:8px" class="titulo-saludo">Con la bendición de Dios y de nuestros padres</h1>
+        <h1 style="margin-bottom:8px" class="titulo-saludo">Tenemos el gusto de invitarlos a nuestra boda</h1>
       </div>
     </div>
   </div>

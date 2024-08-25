@@ -6,8 +6,8 @@
 				<img :src="`../img/header/test.png`" id="img-slider-principal" alt="Angelica & Miguel" class="img-fluid">
 			</picture>
 	      <div class="slider-text">
-	        <h1 id="name_couple" class="texto-parisienne">Angelica & Miguel</h1>
-	        <h1 id="date_wedding" class="texto-cardo">15 Junio 2024</h1>
+	        <h1 id="name_couple" class="texto-parisienne">Iván & Leidy</h1>
+	        <h1 id="date_wedding" class="texto-cardo">28 de Septiembre 2024</h1>
 	      </div>
 		</div>
 		<div id="contador">

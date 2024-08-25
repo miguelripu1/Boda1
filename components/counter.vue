@@ -17,7 +17,7 @@
 export default {
   data() {
     return {
-      targetDate: new Date('June 15, 2024 15:30:00'),
+      targetDate: new Date('September 28, 2024 12:30:00'),
       countdown: [
         { unit: 'Días', value: 0 },
         { unit: 'Horas', value: 0 },
@@ -86,7 +86,7 @@ h2 {
 }
 
 .counter-circle {
-  background-color: #7899AA;
+  background-color: #347355;
   color: #ffffff;
   font-family: 'Cardo';
   opacity: 0.8;

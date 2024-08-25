@@ -30,12 +30,7 @@
               <img :src="`../img/vestimenta/Hombre.svg`" alt="Traje formal" class="img-fluid hombre">
               <p class="clothing-type"><strong>Traje formal</strong></p>
               <hr class="separator">
-              <div class="restriction">
-                <p>Por favor no usar:</p>
-                <ul class="list-unstyled">
-                  <li>Chaleco</li>
-                </ul>
-              </div>
+             
             </div>
           </div>
         </div>
@@ -48,9 +43,8 @@
               <p class="clothing-type"><strong>Vestido formal</strong></p>
               <hr class="separator">
               <div class="restriction">
-                <p>Por favor no usar:</p>
                 <ul class="list-unstyled">
-                  <li>Colores claros como: Blanco, beige o nude</li>
+                  <li>Se reserva el color verde</li>
                 </ul>
               </div>
             </div>
@@ -97,13 +91,15 @@ export default {
 .dress-code-title {
   font-family: 'Parisienne', cursive;
   font-size: 32px;
-  color: #222;
+  color: #593E25;
   margin-bottom: 1rem;
 }
 
-
+.list-unstyled{
+  color: #593E25;
+}
 .panel {
-  background-color: #EFF3F5;
+  background-color: #347355;
   border-radius: 10px;
 }
 
@@ -119,7 +115,7 @@ export default {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  color: #222;
+  color: #EDE6DA;
   text-align: center;
 }
 
@@ -132,7 +128,7 @@ export default {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  color: #222;
+  color: #593E25;
 }
 
 .restriction {
