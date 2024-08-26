@@ -12,8 +12,8 @@
             <p>Para nosotros es muy importante contar con tu presencia en este día tan especial. Por favor, confirma tu asistencia antes del 18 de septiembre enviando un mensaje de WhatsApp.</p>
             <p>¡Esperamos verte y celebrar juntos este gran momento!</p>
           </div>
-          <div class="col-md-4 text-center whatsapp-container">
-            <div class="whatsapp-info d-flex align-items-center justify-content-center">
+          <div class="col-md-4 text-center whatsapp-container" style="margin-top: 0px;">
+            <div class="whatsapp-info d-flex align-items-center justify-content-center" >
               <i class="whatsapp-icon"></i>
               <span class="whatsapp-number">316 1123 445</span>
             </div>

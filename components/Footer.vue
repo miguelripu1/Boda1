@@ -3,18 +3,19 @@
     <div class="container-fluid">
       <div class="d-flex justify-content-between align-items-center row">
         <div class="text-center col-6">
-          <p class="text-muted mb-0"><strong>Inspirado en teología del cuerpo</strong></p>
+          <p class="mb-0"><strong>Inspirado en teología del cuerpo</strong></p>
         </div>
         <div class="text-center col-2">
           <p class="mb-0"><strong>@Bodatdc</strong></p>
         </div>
         <div class="text-center col-4">
-          <a href="https://tiktok.com/bodastdc" target="_blank">
-            <img :src="`../img/footer/tiktok.png`" alt="TikTok" class="social-icon" />
-          </a>
           <a href="https://instagram.com/bodastdc" target="_blank">
             <img :src="`../img/footer/instagram.png`" alt="Instagram" class="social-icon" />
           </a>
+          <a href="https://tiktok.com/bodastdc" target="_blank">
+            <img :src="`../img/footer/tiktok.png`" alt="TikTok" class="social-icon" />
+          </a>
+          
         </div>
       </div>
     </div>
@@ -28,11 +29,14 @@ export default {
 </script>
 
 <style scoped>
+p{
+  color:#593e25;
+}
 .footer {
   padding: 0.5rem 0; /* Ajusta la altura del footer */
   width: 100%;
-  background-color: #EFF3F5;
-  color: #28464E;
+  background-color: #fff;
+
 }
 
 .row {

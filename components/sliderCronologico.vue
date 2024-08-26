@@ -21,7 +21,7 @@ h2 {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  color: #EDE6DA;
+  color: #fff;
   margin-bottom: 10px; /* Añadir margen inferior para separación */
 }
 

@@ -42,14 +42,16 @@ export default {
   padding-right: 60px;
 }
 .itinerary-title {
-  font-family: 'Parisienne', cursive;
+  font-family: Cardo;
   font-size: 32px;
-  margin-bottom: 2rem;
-  margin-top: 2rem;
-  color:#593E25;
-  background-color: #fff;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  color: #593E25;
   padding-left: 60px; 
   width: fit-content;
+  margin-top: 64px;
+  margin-bottom: 32px;
 }
 
 

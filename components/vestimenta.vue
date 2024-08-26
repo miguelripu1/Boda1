@@ -2,10 +2,10 @@
   <div class="py-5 my-5">
     <div class="container">
       <div class="row mb-5">
-        <div class="col">
+        <div class="col" style="padding-left: 0px;">
           <h1 class="dress-code-title">Código de vestimenta</h1>
         </div>
-      </div>
+      </div> 
     </div>
     <div class="container-fluid"> 
       <div class="row">
@@ -89,10 +89,12 @@ export default {
   width: 154px;
 }
 .dress-code-title {
-  font-family: 'Parisienne', cursive;
+  font-family: Cardo;
   font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
   color: #593E25;
-  margin-bottom: 1rem;
 }
 
 .list-unstyled{
@@ -115,7 +117,7 @@ export default {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  color: #EDE6DA;
+  color: #fff;
   text-align: center;
 }
 
