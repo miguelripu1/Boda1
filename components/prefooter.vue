@@ -37,6 +37,7 @@ export default {
 
 .img-anillos {
   /*max-width: 100px;*/
+  margin-top: 60px;
   max-width: 22%;
   margin-bottom: 0rem;
 }

@@ -62,7 +62,7 @@
   }
   
   .confirmation-section {
-    background-color: #D7D8CA;
+    background-color: #E1EAE6;
     padding: 30px 20px;
     border-radius: 10px;
     display: flex;

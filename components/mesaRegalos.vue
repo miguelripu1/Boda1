@@ -10,7 +10,7 @@
          ¡Gracias por ser parte de este momento tan importante en nuestras vidas!
         </p>
       </div>
-      <div class="col-12 col-lg-6 text-center">
+      <div class="col-12 col-lg-6 text-center " style="margin-top: 0px;">
          <div class="col-md-11">
           <div class="card border-0" id="card-lluvia">
             <div class="card-body d-flex flex-row align-items-center">
@@ -65,7 +65,7 @@ export default {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  color: #222;
+  color: #593E25;
 }
 .description-second {
   margin-bottom: 0.5rem;
@@ -74,11 +74,11 @@ export default {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  color: #222;
+  color: #593E25;
 }
 
 .card-body {
-  background-color: #EDE6DA; 
+  background-color: #E1EAE6; 
   color: #ffffff;
   justify-content: center;
   border-radius: 10px;
