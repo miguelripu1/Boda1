@@ -6,7 +6,7 @@
           <p class="mb-0"><strong>Inspirado en teología del cuerpo</strong></p>
         </div>
         <div class="text-center col-2">
-          <p class="mb-0"><strong>@Bodatdc</strong></p>
+          <p class="mb-0"><strong>@Bodatdc </strong></p>
         </div>
         <div class="text-center col-4">
           <a href="https://instagram.com/bodastdc" target="_blank">
