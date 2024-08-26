@@ -12,7 +12,7 @@
           <a href="https://instagram.com/bodastdc" target="_blank">
             <img :src="`../img/footer/instagram.png`" alt="Instagram" class="social-icon" />
           </a>
-          <a href="https://tiktok.com/bodastdc" target="_blank">
+          <a href="https://www.tiktok.com/@bodastdc?_t=8pCm1wNZjnS&_r=1" target="_blank">
             <img :src="`../img/footer/tiktok.png`" alt="TikTok" class="social-icon" />
           </a>
           
