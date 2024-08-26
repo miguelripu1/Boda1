@@ -16,7 +16,7 @@
         <div class="details-text">
           <p class="date"><strong>28 Septiembre, 2024 - 2:30pm</strong></p>
           <p class="location">Restaurante Tymba</p>
-          <p class="location-detail">La Plazuela vía Neusa, Cogua</p>
+          <p class="location-detail">La Plazuela, Cogua</p>
           <div class="buttons-container">
             <a href="https://maps.app.goo.gl/UGWvd5hq9qiwh6kDA" target="_blank" class="btn btn-custom como-Llegar">
               ¿Cómo llegar?
