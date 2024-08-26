@@ -35,6 +35,11 @@ export default {
 </script>
 
 <style scoped>
+.btn-custom, .como-Llegar {
+    font-family: "Gudea", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+  }
 @media (max-width: 767px) {
   .buttons-container {
     display: flex;
@@ -119,7 +124,7 @@ h1{
 }
 
 .details-col {
-  background-color: #D7D8CA;
+  background-color: #E1EAE6;
   color: #000000;
   padding-top: 8rem !important;
   padding-bottom: 8rem !important;
